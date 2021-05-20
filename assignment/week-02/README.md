@@ -14,8 +14,8 @@ git push origin main
 ```
 
 
-## 이론과제 (2pt)
-### 1. Run Time에 대해 알아보고 설명해주세요, 또한 CompileTime과 어떠한 차이점이 있나요? (2pt)
+## 이론과제 (10pt)
+### 1. Run Time에 대해 알아보고 설명해주세요, 또한 CompileTime과 어떠한 차이점이 있나요? (10pt)
 여기에 작성
 
 
