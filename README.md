@@ -48,6 +48,7 @@
 
 
 [Assignment 1]: assignment/week-01
+[Assignment 2]: assignment/week-02
 
 
 
