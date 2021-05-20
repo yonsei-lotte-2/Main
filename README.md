@@ -26,7 +26,7 @@
 | Class |       Date       |      Topic     |       Detail       |   Assignment  | FAQ |
 |:-----:|:----------------:|:--------------:|:------------------:|:-------------:|:---:|
 |  1  |  5월 14일           |     환경설정     |    [Lecture 1]     |   [Assignment 1]| [FAQ 1] |
-|  2  |  5월 21일           |     변수        |  | | |
+|  2  |  5월 21일           |     변수        |  [Lecture 2], [Practice 2]     |   [Assignment 2]|  |
 |  3  |  5월 28일           |     문자열, Collection |  | | |
 |  4  |  6월 4일            |    조건문,반복문  |  | | |
 |  5  |  6월 11일           |    함수, 클래스   |  | | |
@@ -44,6 +44,7 @@
 
 
 [Lecture 1]: lecture/week-01
+[Lecture 2]: lecture/week-02
 
 
 [Assignment 1]: assignment/week-01
@@ -52,6 +53,7 @@
 
 
 [Practice 1]: practice/week-01
+[Practice 2]: practice/week-02
 
 
 
