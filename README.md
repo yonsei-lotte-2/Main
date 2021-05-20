@@ -65,7 +65,7 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  금, 5월 14일  |  목, 5월 20일 |  | | 20 |
+| [Assignment 1]                      |  금, 5월 14일  |  목, 5월 20일 | [Video](https://www.loom.com/share/09a079b9f3c34fd3960d8c340e4a0e15)  | | 20 |
 
 
 
