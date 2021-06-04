@@ -73,7 +73,7 @@
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  금, 5월 14일  |  목, 5월 20일 | [Video](https://www.loom.com/share/09a079b9f3c34fd3960d8c340e4a0e15)  | | 20 |
-| [Assignment 2]                      |  금, 5월 21일  |  목, 5월 27일 | | | 20 |
+| [Assignment 2]                      |  금, 5월 21일  |  목, 5월 27일 | |[Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
 | [Assignment 3]                      |  금, 5월 28일  |  목, 6월 3일 | | | 30 |
 | [Assignment 4]                      |  금, 6월 4일  |  목, 6월 10일 | | | 40 |
 
