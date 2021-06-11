@@ -29,7 +29,7 @@
 |  2  |  5월 21일           |     변수        |  [Lecture 2], [Practice 2]     |   [Assignment 2]|  |
 |  3  |  5월 28일           |     문자열, Collection |  [Lecture 3], [Practice 3]     |   [Assignment 3]|  |
 |  4  |  6월 4일            |    조건문,반복문  |  [Lecture 4], [Practice 4]     |   [Assignment 4]|  |
-|  5  |  6월 11일           |    함수, 클래스   |  | | |
+|  5  |  6월 11일           |    함수, 클래스   | [Lecture 5], [Practice 5]     |   [Assignment 5]|  |
 |  6  |  6월 18일           |    데이터 수집        |  | | |
 |  7  |  6월 25일           |    데이터 전처리   |  | | |
 |  8  |  7월 2일            |    데이터 시각화   |  | | |
@@ -47,12 +47,14 @@
 [Lecture 2]: lecture/week-02
 [Lecture 3]: lecture/week-03
 [Lecture 4]: lecture/week-04
+[Lecture 5]: lecture/week-05
 
 
 [Assignment 1]: assignment/week-01
 [Assignment 2]: assignment/week-02
 [Assignment 3]: assignment/week-03
 [Assignment 4]: assignment/week-04
+[Assignment 5]: assignment/week-05
 
 
 
@@ -61,6 +63,7 @@
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
+[Practice 5]: practice/week-05
 
 
 
@@ -73,9 +76,10 @@
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  금, 5월 14일  |  목, 5월 20일 | [Video](https://www.loom.com/share/09a079b9f3c34fd3960d8c340e4a0e15)  | | 20 |
-| [Assignment 2]                      |  금, 5월 21일  |  목, 5월 27일 | |[Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
-| [Assignment 3]                      |  금, 5월 28일  |  목, 6월 3일 | | | 30 |
+| [Assignment 2]                      |  금, 5월 21일  |  목, 5월 27일 | | [Video](https://www.loom.com/share/3bf1ad2394aa42a19327de31f2ee3f78) | 20 |
+| [Assignment 3]                      |  금, 5월 28일  |  목, 6월 3일 | | [Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 30 |
 | [Assignment 4]                      |  금, 6월 4일  |  목, 6월 10일 | | | 40 |
+| [Assignment 5]                      |  금, 6월 11일  |  목, 6월 24일 | | | 40 |
 
 
 
