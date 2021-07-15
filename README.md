@@ -34,7 +34,7 @@
 |  7  |  6월 25일           |    데이터 전처리   | [Lecture 7], [Practice 7]     |   [Assignment 7]|  |
 |  8  |  7월 2일            |    데이터 시각화   | [Lecture 8], [Practice 8]     |   None|  |
 |  9  |  7월 9일            |    빅데이터 분석  | [Lecture 9], [Practice 9]     |   None|  |
-|  10 |  7월 16일           |    자동화 앱 개발   |  | | |
+|  10 |  7월 16일           |    자동화 앱 개발   | [Lecture 10], [Practice 10]     |   None|  |
 |  11 |  7월 23일           |    전체 강의 리뷰   |  | | |
 |  12 |  7월 30일           |    기말평가   |  | | |
 
@@ -52,6 +52,7 @@
 [Lecture 7]: lecture/week-07
 [Lecture 8]: lecture/week-08
 [Lecture 9]: lecture/week-09
+[Lecture 10]: lecture/week-10
 
 
 [Assignment 1]: assignment/week-01
@@ -73,6 +74,7 @@
 [Practice 7]: practice/week-07
 [Practice 8]: practice/week-08
 [Practice 9]: practice/week-09
+[Practice 10]: practice/week-10
 
 
 
